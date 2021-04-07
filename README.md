@@ -1,4 +1,4 @@
-# Unified Tensor Framework for Incomplete Multi-view Clustering and Missing-view Inferring
+# Unified Embedding Alignment with Missing Views Inferring for Incomplete Multi-View Clustering
 This is an example implementation of our paper:
 
 Jie Wen, Zheng Zhang, Yong Xu, Bob Zhang, Lunke Fei, Hong Liu, Unified Embedding Alignment with Missing Views Inferring for Incomplete Multi-View Clustering, AAAI Conference on Artificial Intelligence, 2019, 5393-5400.
