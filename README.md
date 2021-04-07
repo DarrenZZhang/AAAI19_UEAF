@@ -16,7 +16,7 @@ If you find our approach useful in your research, please consider citing:
 @inproceedings{wen2021Unified,  
   title={Unified Embedding Alignment with Missing Views Inferring for Incomplete Multi-View Clustering},  
   author={Wen, Jie and Zhang, Zheng and Xu, Yong, and Zhang, Bob and Fei, Lunke and Liu, Hong},  
-  booktitle={AAAI Conference on Artificial Intelligence},  
+  booktitle={The Thirty-Third AAAI Conference on Artificial Intelligence},  
   year={2019}  
 }
 
