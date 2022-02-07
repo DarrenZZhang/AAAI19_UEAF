@@ -1,5 +1,5 @@
 # Unified Embedding Alignment with Missing Views Inferring for Incomplete Multi-View Clustering
-This is an example implementation of our paper:
+This is an example implementation of our paper [our paper](https://ojs.aaai.org/index.php/AAAI/article/view/4478):
 
 Jie Wen, Zheng Zhang, Yong Xu, Bob Zhang, Lunke Fei, Hong Liu, Unified Embedding Alignment with Missing Views Inferring for Incomplete Multi-View Clustering, AAAI Conference on Artificial Intelligence, 2019, 5393-5400.
 
